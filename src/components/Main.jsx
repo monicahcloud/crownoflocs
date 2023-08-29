@@ -1,11 +1,9 @@
 
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+// import Container from 'react-bootstrap/Container';
+// import Row from 'react-bootstrap/Row';
+// import Col from 'react-bootstrap/Col';
 // import Button from 'react-bootstrap/Button';
 // import Carousel from 'react-bootstrap/Carousel';
- import pic1 from "../images/20220603_214637.jpg"
- import pic2 from "../images/20220603_214715.jpg"
 // import pic3 from "../images/20220820_121848.jpg"
 // import pic4 from "../images/20220820_121857.jpg"
 // import pic5 from "../images/20220820_181851.jpg"

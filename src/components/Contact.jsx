@@ -7,7 +7,7 @@ import img from "../images/monicah_color.jpg"
 const ContactPage = () => {
   const form = useRef();
   const info = {
-    address: "Serving surrounding areas: Racine County, Kensoha",
+    address: "Serving surrounding areas: Racine, Kensoha, South Milwaukee",
     email: "mycrownlocs@gmail.com",
     phone: "262-770-5142",
   };
@@ -16,10 +16,7 @@ const ContactPage = () => {
   const services = [
     { value: "Sisterlocks Package", label: "Sisterlocks Package" },
     { value: "Microlocks", label: "Microlocks Package" },
-    { value: "Retigthening", label: "Retigthening" },
-    { value: "Crochet Braids", label: "Crochet Braids" },
-    { value: "Crochet Weave", label: "Crochet Weave" },
-    
+    { value: "Retigthening", label: "Retigthening" },    
   ]
 
   const onSubmit = (e) => {
