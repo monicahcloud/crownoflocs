@@ -12,7 +12,7 @@ function Footer() {
         </div> */}
         <div >
             <h5>Copyright @ {year} by Crown of Locs and Natural Hair LLC. | All Rights Reserved</h5>
-            <h5>Designed by Monicah</h5>
+            <h5>Designed by Monicah Cloud</h5>
         </div> 
         </div>
         </>
