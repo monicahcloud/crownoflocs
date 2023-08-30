@@ -53,12 +53,7 @@ const Services = () => {
                                                 <Card.Text>{item.consult}</Card.Text>
                                                 <Card.Text>{item.deposit}</Card.Text>
                                                 <Card.Text>{item.reties}</Card.Text>
-                                                {/* <a
-                                                    target="blank"
-                                                    href="https://calendly.com/acountingdreamsllc"
-                                                    className="calendly-inline-widget btn btn-secondary ">
-                                                    Book Now
-                                                </a> */}
+                                               
                                             </div>
                                         </div>
                                     </div>

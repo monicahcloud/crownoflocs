@@ -68,7 +68,7 @@ const ContactPage = () => {
           <div className="col-12">
 
             <h2>Contact Us</h2>
-            {/* {info.address} */}
+            {info.address}
             <div >
             <img
             className="rounded-circle"
