@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter , Routes, Route } from 'react-router-dom';
 import './App.css';
 import Footer from './components/Footer';
 import Main from './components/Main';
@@ -15,7 +15,7 @@ function App() {
 
 
     <div className='App'>
-      <BrowserRouter>
+      <HashRouter >
         {<PageHero />}
         {<Navbar />}
 
@@ -28,7 +28,7 @@ function App() {
           <Route exact path='/about' element={<About />} />
           <Route exact path='/*' element={<Error />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter >
       {<Footer />}
     </div>
   );
