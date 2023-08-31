@@ -15,7 +15,7 @@ const Services = () => {
                         fontFamily: "georgia"
                     }}>
                     Our Services
-                    {/* <img src={image} alt="Price is what you pay value is what you get"/> */}
+                
                 </h3>
             </div>
             <Container
@@ -25,17 +25,16 @@ const Services = () => {
                     flexWrap: "wrap",
                     textAlign: "center",
                 }}>
-                <div className="row g-0">
+                <div className="">
                     {data.map((item) => {
                         return (
                             <>
                                 <div
                                     key={item.id}
-                                    className="card mb-3"
-                                    style={{ maxWidth: "540 px" }}>
-                                    <div className="row g-0">
+                                    style={{ maxWidth: "100 px" }}>
+                                    {/*<div className="row g-0">
                                         <div className="col md-4">
-                                            <img
+                                             <img
                                                 style={{
                                                     display: "flex",
                                                     width: "400px",
@@ -44,10 +43,10 @@ const Services = () => {
                                                 src={item.img}
                                                 className="img-fluid rounded-start"
                                                 alt="book a service"
-                                            />
-                                        </div>
-                                        <div className="col-md-8">
-                                            <div className="card-body">
+                                            /> 
+                                        </div>*/}
+                                        <div className="col-md-12">
+                                            <div className="">
                                                 <Card.Title>{item.service}</Card.Title>
                                                 <Card.Text>{item.price}</Card.Text>
                                                 <Card.Text>{item.consult}</Card.Text>
@@ -56,7 +55,7 @@ const Services = () => {
                                                
                                             </div>
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                                 <br />
                             </>

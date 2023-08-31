@@ -16,7 +16,10 @@ const ContactPage = () => {
   const services = [
     { value: "Sisterlocks Package", label: "Sisterlocks Package" },
     { value: "Microlocks", label: "Microlocks Package" },
-    { value: "Retigthening", label: "Retigthening" },    
+    { value: "Retigthening", label: "Retigthening" },  
+    { value: "Crochet Braids", label: "Crochet Braids" },  
+    { value: "Crochet Weave", label: "Crochet Weave" },   
+    { value: "Faux Locs", label: "Faux Locs" },
   ]
 
   const onSubmit = (e) => {
