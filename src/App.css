@@ -137,6 +137,14 @@
     width: 100%;
   }
 }
+@media  (max-width: 200px) {
+  .App{
+    width: 100%;
+  }
+  .Hero{
+    width: 100%;
+  }
+}
 
 .App-header {
   background-color: #282c34;
