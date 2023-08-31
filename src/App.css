@@ -103,6 +103,27 @@
   }
 }
 
+@media screen and (max-width:1366px) {
+  .Hero{
+    width: 100%;
+  }
+}
+@media screen and (max-width:1024px) {
+  .Hero{
+    width: 100%;
+  }
+}
+@media screen and (max-width:768px) {
+  .Hero{
+    width: 100%;
+  }
+}
+@media screen and (max-width:480px) {
+  .Hero{
+    width: 100%;
+  }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
