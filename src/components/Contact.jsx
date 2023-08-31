@@ -67,10 +67,16 @@ const ContactPage = () => {
           fontFamily: "serif",
           marginLeft: '5px'
         }}>
-        <div className="row">
-          <div className="col-12">
+        <div className="row" >
+          <div className="col-12" >
 
-            <h2>Contact Us</h2>
+            <h2 className="" style={{
+                        textAlign: "center",
+                        marginTop: "10px",
+                        marginBottom: "10px",
+                        fontFamily: "georgia",
+                        color: "purple"
+                    }} > <br/>Contact Us</h2>
             {info.address}
             <div >
             <img
@@ -78,10 +84,10 @@ const ContactPage = () => {
               width="150"
               src={img} alt="monicah-bw" /></div>
             <br />
-            <h6>Monicah</h6>
-            <h6>Trained Sisterlocks Loctician</h6>
-            <h6>Email: {info.email}</h6>
-            <h6>Phone: {info.phone}</h6>
+            <h5>Monicah</h5>
+            <h5>Trained Sisterlocks Loctician</h5>
+            <h5>Email: {info.email}</h5>
+            <h5>Phone: {info.phone}</h5>
             <br />
             <div className="col-12">
               <p > By completing this form, you acknowledge you have read and agree to the terms outlined in the <Link to="/policy"> policy </Link> of Crown of Locs and Natural Hair LLC.</p>

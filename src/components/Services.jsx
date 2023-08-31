@@ -1,22 +1,20 @@
 import data from "../data.json"
 import { Card, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
-// import image from "../images/priceValue.jpg"
 
 const Services = () => {
     return (
         <>
             <div className="">
-                <h3 className=""
+                <h3 className="color1 font_tangerine"
                     style={{
                         textAlign: "center",
                         marginTop: "10px",
                         marginBottom: "10px",
                         fontFamily: "georgia"
-                    }}>
+                    }}><br/>
                     Our Services
-                
-                </h3>
+                                    </h3><br/>
             </div>
             <Container
                 className="spacing"
@@ -47,15 +45,15 @@ const Services = () => {
                                         </div>*/}
                                         <div className="col-md-12">
                                             <div className="">
-                                                <Card.Title>{item.service}</Card.Title>
+                                                <Card.Title>{item.service}</Card.Title><br/>
                                                 <Card.Text>{item.price}</Card.Text>
                                                 <Card.Text>{item.consult}</Card.Text>
                                                 <Card.Text>{item.deposit}</Card.Text>
                                                 <Card.Text>{item.reties}</Card.Text>
+                                                <Card.Text>{item.description}</Card.Text>
                                                
                                             </div>
                                         </div>
-                                    {/* </div> */}
                                 </div>
                                 <br />
                             </>
