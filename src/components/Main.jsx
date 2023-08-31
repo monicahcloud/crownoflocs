@@ -135,18 +135,7 @@ export default Main;
     //                         </Carousel.Item>
     //                     </Carousel>
     //             </Col>
-    //             <Col className='col-md-7' >
-    //                     <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
-
-    //                                 <div>
-    //                                     <h1 className="font_trattatello fontSize75px">Fall Promotion</h1>
-    //                                     <h1 className="font_tangerine fontSize75px">Sisterlocks™ Package</h1></div>
-    //                                 <div>
-    //                                     <h1 className="grow">$699</h1></div>
-    //                                 <div> <p className="removespace">*$up to 4"</p>
-    //                                     <p >*$75 per additional</p></div>
-    //                             </div>                            
-    //                 </Col>
+    //            
     //         </Row>
     //     </Container >
     //         </>
