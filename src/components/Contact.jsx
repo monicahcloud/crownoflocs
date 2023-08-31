@@ -7,7 +7,7 @@ import img from "../images/monicah_color.jpg"
 const ContactPage = () => {
   const form = useRef();
   const info = {
-    address: "Serving surrounding areas: Racine, Kensoha, South Milwaukee",
+    address: "Serving Racine, Kenosha, South Milwaukee and surrounding areas",
     email: "mycrownlocs@gmail.com",
     phone: "262-770-5142",
   };

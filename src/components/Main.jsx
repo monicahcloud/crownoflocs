@@ -62,7 +62,7 @@ const Main = () => {
                 ))}
             </div>          
             </div> */}
-             <div id="carouselExampleSlidesOnly" className="carousel slide col-md-12" data-bs-ride="carousel">
+             <div  className=" col-md-12">
 
                 <div>
                    <h1 className="font_trattatello fontSize75px">Fall Promotion</h1>
@@ -71,6 +71,13 @@ const Main = () => {
                 <h1 className="grow">$699</h1></div>
                 <div> <p className="removespace">*$up to 4"</p>
                 <p >*$75 per additional</p></div>
+                <br/>
+                <h5 style={{ color: 'red' }}>Package Includes</h5>
+                <ol style={{ listStyleType: 'none' }}>
+                    <li>Consultation - $45 due at booking and will be applied towards overall price.</li>
+                    <li>Locking Session - 1-3 days depending on length and density of hair</li>
+                    <li>1st Retightening Session</li>
+                </ol>
                 </div>    
                                         
                  </> 
