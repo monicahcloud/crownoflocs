@@ -59,6 +59,8 @@
   height: 50vh;
   margin-top: auto;
   margin-bottom: 0;
+  display: flex;
+  justify-content: center;
 }
 
 .Navbar {
