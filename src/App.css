@@ -56,7 +56,6 @@
 
 .Hero {
   background-image: linear-gradient(purple, gold);
-
   height: 50vh;
   margin-top: auto;
   margin-bottom: 0;
@@ -108,9 +107,15 @@
   .App{
     width: 100%;
   }
+  .Hero{
+    width: 100%;
+  }
 }
 @media  (max-width:1024px) {
   .App{
+    width: 100%;
+  }
+  .Hero{
     width: 100%;
   }
 }
@@ -118,9 +123,15 @@
   .App{
     width: 100%;
   }
+  .Hero{
+    width: 100%;
+  }
 }
 @media  (max-width:480px) {
   .App{
+    width: 100%;
+  }
+  .Hero{
     width: 100%;
   }
 }
