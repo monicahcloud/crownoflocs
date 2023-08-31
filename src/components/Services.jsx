@@ -32,7 +32,7 @@ const Services = () => {
                                 <div
                                     key={item.id}
                                     >
-                                    {/*<div className="row g-0">
+                                    <div className="row g-0">
                                         <div className="col md-4">
                                              <img
                                                 style={{
@@ -44,9 +44,9 @@ const Services = () => {
                                                 className="img-fluid rounded-start"
                                                 alt="book a service"
                                             /> 
-                                        </div>*/}
-                                        <div className="col-md-12">
-                                            <div >
+                                        </div>
+                                        <Card className="" style={{ width: '50rem' }}>
+                                            <Card.Body >
                                                 <Card.Title>{item.service}</Card.Title><br/>
                                                 <Card.Text>{item.price}</Card.Text>
                                                 <Card.Text>{item.consult}</Card.Text>
@@ -54,8 +54,9 @@ const Services = () => {
                                                 <Card.Text>{item.reties}</Card.Text>
                                                 <Card.Text>{item.description}</Card.Text>
                                                
-                                            </div>
-                                        </div>
+                                            </Card.Body>
+                                        </Card>
+                                </div>
                                 </div>
                                 <br />
                             </>
