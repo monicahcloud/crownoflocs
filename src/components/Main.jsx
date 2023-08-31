@@ -62,7 +62,7 @@ const Main = () => {
                 ))}
             </div>          
             </div> */}
-             <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
+             <div id="carouselExampleSlidesOnly" className="carousel slide col-md-12" data-bs-ride="carousel">
 
                 <div>
                    <h1 className="font_trattatello fontSize75px">Fall Promotion</h1>

@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Services = () => {
     return (
         <>
-            <div className="">
+            <div className="col-md-12">
                 <h3 className="color1 font_tangerine"
                     style={{
                         textAlign: "center",
@@ -16,20 +16,22 @@ const Services = () => {
                     Our Services
                                     </h3><br/>
             </div>
-            <Container
+            <Container classname="col-md-12"
+             style={{
+                textAlign: "center",
+                marginTop: "10px",
+                marginBottom: "10px",
+                fontFamily: "georgia"
+            }}
                 className="spacing"
-                style={{
-                    display: "flex",
-                    flexWrap: "wrap",
-                    textAlign: "center",
-                }}>
-                <div className="">
+                >
+                <div >
                     {data.map((item) => {
                         return (
                             <>
                                 <div
                                     key={item.id}
-                                    style={{ maxWidth: "100 px" }}>
+                                    >
                                     {/*<div className="row g-0">
                                         <div className="col md-4">
                                              <img
@@ -44,7 +46,7 @@ const Services = () => {
                                             /> 
                                         </div>*/}
                                         <div className="col-md-12">
-                                            <div className="">
+                                            <div >
                                                 <Card.Title>{item.service}</Card.Title><br/>
                                                 <Card.Text>{item.price}</Card.Text>
                                                 <Card.Text>{item.consult}</Card.Text>
@@ -61,7 +63,7 @@ const Services = () => {
                     })}
                 </div>
             </Container>
-            <p className="font_alconica">Please review our policy before booking.
+            <p className="font_alconica col-md-12">Please review our policy before booking.
                 <Link to="/policy"> POLICY </Link></p>
             <p> By booking a consultation, you acknowledge and agree to of our polices included
                 in Crown of Locs and Natural Hair's website.</p>
