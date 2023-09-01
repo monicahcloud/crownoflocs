@@ -28,7 +28,6 @@ const Main = () => {
         {url: pic9},
         {url: pic10},
         {url: pic11},
-
     ];
     const delay = 2500;
     
@@ -54,7 +53,7 @@ const Main = () => {
         return () => {
             resetTimeout();
         };
-    }, [images.length]);
+    }, [index,images.length]);
 
     return (
         <>
