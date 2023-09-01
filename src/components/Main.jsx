@@ -43,7 +43,7 @@ const Main = () => {
         return () => {
             resetTimeout();
         };
-    }, [index]);
+    }, [images.length]);
 
     return (
         <>
