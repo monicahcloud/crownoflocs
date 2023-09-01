@@ -1,14 +1,17 @@
 
-// import Carousel from 'react-bootstrap/Carousel';
-// import pic3 from "../images/20220820_121848.jpg"
-// import pic4 from "../images/20220820_121857.jpg"
-// import pic5 from "../images/20220820_181851.jpg"
+import pic3 from "../images/20220820_121848.jpg"
+import pic4 from "../images/20220820_121857.jpg"
+import pic5 from "../images/20220820_181851.jpg"
 import { useState, useEffect, useRef } from 'react';
 
 
 const Main = () => {
 
     const images = [
+        {url: pic3},
+        {url: pic4},
+        {url: pic5},
+
         {url:"https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/272920895_10159826855581118_4598242148598824615_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ioD91qwOHjEAX8oER5L&_nc_ht=scontent-ord5-1.xx&oh=00_AfC4gn6g4tVaaDM-Sm3wkdnc7u7umMAr0UHC-zRdExtsqQ&oe=64EBF643"},
         {url:"https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/272874157_10159826855466118_8957006912199979987_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=y-4xaZyt3AkAX8DYlZK&_nc_ht=scontent-ord5-2.xx&oh=00_AfBwlZz5b5YF1zA27P7KSEe4rj33VflT5l9P_RqcdIM0dA&oe=64EC8DF9"},
         {url:"https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/273014796_10159826855271118_6316802090697066875_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5614bc&_nc_ohc=pEujkej08-AAX9Ocwny&_nc_ht=scontent-ord5-1.xx&oh=00_AfAAfVzcLV_lbMYj-e6DzgscExMtzqz-BNZW-LXI3exeBA&oe=64F6D2D9"},
@@ -55,7 +58,7 @@ const Main = () => {
                         key={index}
                     >
                          <img
-            className="rounded-pill"
+            className="rounded-circle"
               width="350"
              src={pic.url} alt=""/></div>
                 ))}

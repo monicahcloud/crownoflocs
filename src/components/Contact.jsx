@@ -81,7 +81,7 @@ const ContactPage = () => {
             <div >
             <img
             className="rounded-circle"
-              width="150"
+              width="200"
               src={img} alt="monicah-bw" /></div>
             <br />
             <h5>Monicah</h5>
