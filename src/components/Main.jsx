@@ -19,6 +19,7 @@ const Main = () => {
         {url:"https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/273014796_10159826855271118_6316802090697066875_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5614bc&_nc_ohc=pEujkej08-AAX9Ocwny&_nc_ht=scontent-ord5-1.xx&oh=00_AfAAfVzcLV_lbMYj-e6DzgscExMtzqz-BNZW-LXI3exeBA&oe=64F6D2D9"},
         {url:"https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/272871397_10159826855606118_2925405232570321899_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5614bc&_nc_ohc=5FZfBOUCoTcAX-5n2yk&_nc_ht=scontent-ord5-2.xx&oh=00_AfBfgTy0tDn0GWXyZ3krVpEaYs22Eol-C32H8cnfJm42Rg&oe=64F6F69A"}
  
+        
     ];
     const delay = 2500;
     
