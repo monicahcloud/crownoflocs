@@ -124,6 +124,9 @@
   .Hero{
     width: 100%;
   }
+  #logo_img{
+    width: 100%;
+  }
 }
 
 .App-header {

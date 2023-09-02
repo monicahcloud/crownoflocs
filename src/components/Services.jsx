@@ -39,8 +39,8 @@ const Services = () => {
                                              <img
                                                 style={{
                                                     display: "flex",
-                                                    width: "400px",
-                                                    height: "310px",
+                                                    width: "50vw",
+                                                    height: "50vh",
                                                 }}
                                                 src={item.img}
                                                 className="img-fluid rounded-start"
