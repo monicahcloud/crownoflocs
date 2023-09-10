@@ -84,8 +84,8 @@ const ContactPage = () => {
               width="200"
               src={img} alt="monicah-bw" /></div>
             <br />
-            <h5>Monicah</h5>
-            <h5>Trained Sisterlocks Consultant</h5>
+            <h5>Monicah Cloud</h5>
+            <h5> Sisterlocks Consultant</h5>
             <h5>Email: {info.email}</h5>
             <h5>Phone: {info.phone}</h5>
             <br />
