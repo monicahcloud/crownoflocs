@@ -14,8 +14,8 @@ const ContactPage = () => {
 
   const [formStatus, setFormStatus] = useState("Send");
   const services = [
-    { value: "Sisterlocks Package", label: "Sisterlocks Package" },
-    { value: "Microlocks", label: "Microlocks Package" },
+    { value: "Sisterlocks Package", label: "Sisterlocks™ Package" },
+    { value: "Microlocks", label: "Interlocks " },
     { value: "Retigthening", label: "Retigthening" },  
     { value: "Crochet Braids", label: "Crochet Braids" },  
     { value: "Crochet Weave", label: "Crochet Weave" },   
@@ -85,7 +85,7 @@ const ContactPage = () => {
               src={img} alt="monicah-bw" /></div>
             <br />
             <h5>Monicah Cloud</h5>
-            <h5> Sisterlocks Consultant</h5>
+            <h5> Sisterlocks™ Consultant</h5>
             <h5>Email: {info.email}</h5>
             <h5>Phone: {info.phone}</h5>
             <br />

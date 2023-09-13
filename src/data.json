@@ -4,21 +4,21 @@
 
     
     {
-        "service": "Sisterlocks™ Install",
+        "service": "Sisterlocks™ Establishments",
         "price": "Starting Price: $850(up to 4 inches)| $75 per inch",
         "description": "************************************************************************************",
-        "consult": "Consult  $50 - Goes toward full install price and nonrefundable",
-        "deposit": "Deposit  $300 - Goes toward full install price and nonrefundable",
-        "reties": "Reties Starts at $140",
+        "consult": "Consult  $50 - Goes toward full establishments price and nonrefundable",
+        "deposit": "Deposit  $300 - Goes toward full establishments price and nonrefundable",
+        "reties": "Retigthenings Starts at $140",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
-        "service": "Interlocks Install",
+        "service": "Interlocks Establishments",
         "price": "Starting Price: $600(up to 4 inches)| $75 per inch",
         "description": "************************************************************************************",
-        "consult": "Consult  $50 - Goes toward full install price and nonrefundable",
-        "deposit": "Deposit  $250 - Goes toward full install price and nonrefundable",
-        "reties": "Reties Starts at $140",
+        "consult": "Consult  $50 - Goes toward full establishments price and nonrefundable",
+        "deposit": "Deposit  $250 - Goes toward full establishments price and nonrefundable",
+        "reties": "Retigthenings Starts at $140",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
@@ -26,16 +26,16 @@
         "price": "Starting Price: $175 and up",
         "description": "************************************************************************************",
         "consult": "",
-        "deposit": "Deposit  $100 - Goes toward full install price and nonrefundable",
-        "reties": "Reties Starts at $80",
+        "deposit": "Deposit  $100 - Goes toward full establishments price and nonrefundable",
+        "reties": "Retigthenings Starts at $80",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
         "service": "Retighenings",
         "price": "Price -$145",
         "description": "************************************************************************************",
-        "consult": "Pricing for reties varies depending upon type of locks and time since last retie.",
-        "deposit": "Sisterlocks™ and Interlocks reties are recommended every 4-5 wks.  Reties can take 2 to 3 hrs or more depending on time since last retie. Sisterlocks™ or Interlocks reties 8 wks or more are $35 per half hour after base price.",
+        "consult": "Pricing for Retigthenings varies depending upon type of locks and time since last retigthening.",
+        "deposit": "Sisterlocks™ and Interlocks Retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Interlocks retigthenings 8 wks or more are $35 per half hour after base price.",
         "reties": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
@@ -43,8 +43,8 @@
         "service": "Consultation",
         "price": "Price - $50",
         "description": "************************************************************************************",
-        "consult": "Pricing for reties varies depending upon type of locks and time since last retie.",
-        "deposit": "Sisterlocks™ and Interlocks reties are recommended every 4-5 wks.  Reties can take 2 to 3 hrs or more depending on time since last retie. Sisterlocks™ or Interlocks reties 8 wks or more are $35 per half hour after base price.",
+        "consult": "Pricing for retigthenings varies depending upon type of locks and time since last retigthenings.",
+        "deposit": "Sisterlocks™ and Interlocks retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Interlocks retigthenings 8 wks or more are $35 per half hour after base price.",
         "reties": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
@@ -52,7 +52,7 @@
         "service": "Crochet Braids/Weave",
         "price": "Price - $150",
         "description": "************************************************************************************",
-        "consult":"The protective styling term refers to the weaving technique used to install human or synthetic hair into your own.",
+        "consult":"The protective styling term refers to the weaving technique used to establishments human or synthetic hair into your own.",
         "deposit": "Deposit - $75",
         "reties": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
