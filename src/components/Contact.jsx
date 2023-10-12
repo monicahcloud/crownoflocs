@@ -7,7 +7,8 @@ import img from "../images/monicah_color.jpg"
 const ContactPage = () => {
   const form = useRef();
   const info = {
-    address: "Serving Racine, Kenosha, South Milwaukee and surrounding areas",
+    address: "310 5st Suite 202, Racine WI 53403 (located Downtown Racine)",
+    address1: "Serving Racine, Kenosha, South Milwaukee and surrounding areas",
     email: "mycrownlocs@gmail.com",
     phone: "262-770-5142",
   };
@@ -88,6 +89,8 @@ const ContactPage = () => {
             <h5> Sisterlocks™ Consultant</h5>
             <h5>Email: {info.email}</h5>
             <h5>Phone: {info.phone}</h5>
+            <h5>Phone: {info.address}</h5>
+            <h5>Phone: {info.address1}</h5>
             <br />
             <div className="col-12">
               <p > By completing this form, you acknowledge you have read and agree to the terms outlined in the <Link to="/policy"> policy </Link> of Crown of Locs and Natural Hair LLC.</p>
