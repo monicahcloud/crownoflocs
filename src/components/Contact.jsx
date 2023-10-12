@@ -89,7 +89,7 @@ const ContactPage = () => {
             <h5> Sisterlocks™ Consultant</h5>
             <h5>Email: {info.email}</h5>
             <h5>Phone: {info.phone}</h5>
-            <h5>Phone: {info.address}</h5>
+            <h5>Address: {info.address}</h5>
             <br />
             <div className="col-12">
               <p > By completing this form, you acknowledge you have read and agree to the terms outlined in the <Link to="/policy"> policy </Link> of Crown of Locs and Natural Hair LLC.</p>
