@@ -16,6 +16,13 @@ import pic14 from '../images/IMG_7114.jpg'
 import pic15 from '../images/IMG_7115.jpg'
 import pic16 from '../images/IMG_7116.jpg'
 import pic17 from '../images/IMG_7117.jpg'
+import pic18 from '../images/IMG_6470.jpg'
+import pic19 from '../images/IMG_6471.jpg'
+import pic20 from '../images/IMG_6472.jpg'
+import pic21 from '../images/IMG_6473.jpg'
+import pic22 from '../images/IMG_6913.jpg'
+import pic23 from '../images/IMG_7079.jpg'
+import pic24 from '../images/IMG_7080.jpg'
 
 import { useState, useEffect, useRef } from 'react';
 
@@ -39,7 +46,14 @@ const Main = () => {
         {url: pic14},
         {url: pic15},
         {url: pic16},
-        {url: pic17}
+        {url: pic17},
+        {url: pic18},
+        {url: pic19},
+        {url: pic20},
+        {url: pic21},
+        {url: pic22},
+        {url: pic23},
+        {url: pic24}
     ];
     const delay = 2500;
     
