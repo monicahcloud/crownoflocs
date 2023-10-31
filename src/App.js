@@ -22,7 +22,7 @@ function App() {
         <Routes>
           <Route exact path='/' element={<Main />} />
           <Route exact path='/home' element={<Main />} />
-          <Route exact path='/policy' element={<Policy />} />
+          <Route exact path='/sisterlockspolicy' element={<Policy />} />
           <Route exact path='/services' element={<Services />} />
           <Route exact path='/contact' element={<Contact />} />
           <Route exact path='/about' element={<About />} />
