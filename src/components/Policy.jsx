@@ -4,7 +4,7 @@ const Policy = () => {
       <h1 className="color2 font_tangerine fontSize75px"> Policy</h1>
       <h2 className="color1 font_tangerine ">Booking Appointments:</h2>
       <p> - Every appointment made is just for the client. No other people (spouse, kids, friends, or animals) are permitted. </p>
-      <p>- Cash, credit cards, and debit cards are all accepted at Crown of Locs and Natural Hair. We appreciate gratuities. </p>
+      <p>- Cash, Vagaro Pay Later, credit cards, and debit cards are all accepted at Crown of Locs and Natural Hair. We appreciate gratuities. </p>
       <p>-  Making your next appointment at the time of current service is advised.
       </p>
 

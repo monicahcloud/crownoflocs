@@ -11,9 +11,9 @@ const Services = () => {
                 <h3 className="color1 font_tangerine"
                     style={{
                         textAlign: "center",
-                        marginTop: "10px",
-                        marginBottom: "10px",
-                        fontFamily: "georgia"
+                        marginTop: "3px",
+                        marginBottom: "3px",
+                        fontSize:"75px"
                     }}><br/>
                     Our Services
                                     </h3><br/>
@@ -55,9 +55,9 @@ const Services = () => {
                                                 <Card.Text>{item.deposit}</Card.Text>
                                                 <Card.Text>{item.reties}</Card.Text>
                                                 <Card.Text>{item.description}</Card.Text>
-                                               
                                             </Card.Body>
-                                        </Card>
+                                           </Card>
+                                        
                                 </div>
                                 </div>
                                 <br />

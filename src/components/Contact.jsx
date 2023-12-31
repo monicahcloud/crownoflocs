@@ -17,10 +17,8 @@ const ContactPage = () => {
   const services = [
     { value: "Sisterlocks Package", label: "Sisterlocks™ Package" },
     { value: "Microlocks", label: "Interlocks " },
-    { value: "Retigthening", label: "Retigthening" },  
-    { value: "Crochet Braids", label: "Crochet Braids" },  
-    { value: "Crochet Weave", label: "Crochet Weave" },   
-    { value: "Faux Locs", label: "Faux Locs" },
+    { value: "Retigthening/Retwist", label: "Retigthening/Retwist" },  
+    { value: "Starter Locks", label: "Starter Locks" }, 
   ]
 
   const onSubmit = (e) => {
@@ -71,11 +69,11 @@ const ContactPage = () => {
         <div className="row" >
           <div className="col-12" >
 
-            <h2 className="" style={{
+            <h2 className="font_tangerine" style={{
                         textAlign: "center",
-                        marginTop: "10px",
-                        marginBottom: "10px",
-                        fontFamily: "georgia",
+                        marginTop: "5px",
+                        marginBottom: "5px",
+                        fontSize:"50px",
                         color: "purple"
                     }} > <br/>Contact Us</h2>
             {info.address1}

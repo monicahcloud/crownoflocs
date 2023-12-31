@@ -1,79 +1,57 @@
 
 
 [
-
-    
+   
     {
         "service": "Sisterlocks™ Establishments",
+        "book":"https://www.vagaro.com/cl/m5BbdvIiKgse6Hg5PokbZ6l7xJEGCW5QvvdgTxoYEmc=",
         "price": "Starting Price: $850(up to 4 inches)| $75 per inch",
         "description": "************************************************************************************",
         "consult": "Consult  $50 - Goes toward full establishments price and nonrefundable",
         "deposit": "Deposit  $300 - Goes toward full establishments price and nonrefundable",
-        "reties": "Retigthenings Starts at $140",
+        "reties": "Retigthenings Starts at $145",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
         "service": "Interlocks Establishments",
-        "price": "Starting Price: $600(up to 4 inches)| $75 per inch",
+        "book":"https://www.vagaro.com/cl/iQn0I0PnWln22WR3vQRCp3F3TYeQ6eGDIM7QDp4rsEs=",
+        "price": "Starting Price: $650(up to 4 inches)| $75 per inch",
         "description": "************************************************************************************",
         "consult": "Consult  $50 - Goes toward full establishments price and nonrefundable",
-        "deposit": "Deposit  $250 - Goes toward full establishments price and nonrefundable",
-        "reties": "Retigthenings Starts at $140",
+        "deposit": "Deposit  $300 - Goes toward full establishments price and nonrefundable",
+        "reties": "Retigthenings Starts at $145",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
-        "service": "Palm Rolled  Starter Locs",
+        "service": "Palm Rolled Starter Locs",
+        "book":"https://www.vagaro.com/us04/crownoflocs",
         "price": "Starting Price: $175 and up",
         "description": "************************************************************************************",
         "consult": "",
         "deposit": "Deposit  $100 - Goes toward full establishments price and nonrefundable",
-        "reties": "Retigthenings Starts at $80",
+        "reties": "Retwists Starts at $100",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
         "service": "Retighenings",
+        "book":"https://www.vagaro.com/cl/vIIzCTJG7aiE81M5SHEhztPMM7WUMJEVCeYH-nl-7Ek=",
         "price": "Price -$145",
         "description": "************************************************************************************",
         "consult": "Pricing for Retigthenings varies depending upon type of locks and time since last retigthening.",
-        "deposit": "Sisterlocks™ and Interlocks Retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Interlocks retigthenings 8 wks or more are $35 per half hour after base price.",
+        "deposit": "Sisterlocks™ and Interlocks Retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Interlocks retigthenings 8 wks or more are $45 per half hour after base price.",
         "reties": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
         "service": "Consultation",
+        "book":"https://www.vagaro.com/cl/RP6UFv25~NkZemCxZMiBHavV~NE9OLs3AmxIDaYao9U=",
         "price": "Price - $50",
         "description": "************************************************************************************",
         "consult": "Pricing for retigthenings varies depending upon type of locks and time since last retigthenings.",
         "deposit": "Sisterlocks™ and Interlocks retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Interlocks retigthenings 8 wks or more are $35 per half hour after base price.",
         "reties": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
-    },
-    {
-        "service": "Crochet Braids/Weave",
-        "price": "Price - $150",
-        "description": "************************************************************************************",
-        "consult":"The protective styling term refers to the weaving technique used to establishments human or synthetic hair into your own.",
-        "deposit": "Deposit - $75",
-        "reties": "",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
-    },
-        {
-        "service": "Corn Rows",
-        "price": "Price - $80 - $100",
-        "description": "************************************************************************************",
-        "consult":"A hairstyle consisting of such braids in close parallel rows.",
-        "deposit": "Deposit - $40",
-        "reties": "",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
-    },
-    {
-        "service": "Faux Locs",
-        "price": "Price - $150",
-        "description": "************************************************************************************",
-        "consult":"Faux locs are hair styled to imitate dreadlocks or synthetic hair manufactured to mimic the dreadlock look aesthetically.",
-        "deposit": "Deposit - $75",
-        "reties": "",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     }
+
     
 ]

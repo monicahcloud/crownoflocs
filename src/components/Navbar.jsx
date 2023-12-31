@@ -26,6 +26,9 @@ const Navbar = () => {
         <Nav.Item>
           <Nav.Link href='/contact'>Contact Us</Nav.Link>
         </Nav.Item>
+        <Nav.Item>
+        <Nav.Link href='https://www.vagaro.com/us04/crownoflocs' target="_blank" >Book Now</Nav.Link>
+      </Nav.Item>
       </Nav>
     </>
   )
