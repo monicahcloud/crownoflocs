@@ -3,7 +3,6 @@ import { Card, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
 const Services = () => {
-
     
     return (
         <>
@@ -13,7 +12,7 @@ const Services = () => {
                         textAlign: "center",
                         marginTop: "3px",
                         marginBottom: "3px",
-                        fontSize:"75px"
+                        fontSize:"65px"
                     }}><br/>
                     Our Services
                                     </h3><br/>
@@ -21,8 +20,8 @@ const Services = () => {
             <Container classname="col-md-12"
              style={{
                 textAlign: "center",
-                marginTop: "10px",
-                marginBottom: "10px",
+                marginTop: "3px",
+                marginBottom: "3px",
                 fontFamily: "georgia"
             }}
                 className="spacing"
