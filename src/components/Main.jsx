@@ -12,7 +12,7 @@ const Main = () => {
 
             {/* <Carousel images={images}/> */}
             <img
-              className="circle"
+              className="circle, mainImage"
               width="750"
               src={transfer} alt="" />
 
