@@ -29,6 +29,7 @@ function App() {
           <Route exact path='/*' element={<Error />} />
         </Routes>
       </BrowserRouter>
+      <br/>
       {<Footer />}
     </div>
   );

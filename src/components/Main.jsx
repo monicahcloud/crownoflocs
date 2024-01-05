@@ -17,7 +17,8 @@ const Main = () => {
               className="circle, mainImage"
               width="750"
               src={transfer} alt="" />
-
+  <br />
+            <br />
         </>
     );
 }

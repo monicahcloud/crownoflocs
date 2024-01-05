@@ -121,7 +121,8 @@
   pointer-events: none;
 }
 .mainImage{
-  width: 80%;
+  width: 90%;
+  height: 90vh;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -136,12 +137,10 @@
   .Hero{
     width: 100%;
   }
-  .Footer{
+  .Footer {
     width: 100%;
   }
-  #logo_img{
-    width: 90%;
-  }
+
 }
 @media  (max-width:1024px) {
   .App{
@@ -150,9 +149,7 @@
   .Hero{
     width: 100%;
   }
-  #logo_img{
-    width: 90%;
-  }
+
   .Footer{
     width: 100%;
   }
@@ -163,10 +160,9 @@
   }
   .Hero{
     width: 100%;
-    height: 80%;
   }
   #logo_img{
-    width: 95%;
+    width: 100%;
   }
   .Footer .mainImage{
     width: 100%;
