@@ -11,6 +11,8 @@ const Main = () => {
             <h1 className="font_tangerine">Crown of Locs and Natural Hair LLC  is a private, independent salon providing all locking services specializing in Sisterlocks/Interlocks.</h1>
 
             {/* <Carousel images={images}/> */}
+            <br />
+            <br />
             <img
               className="circle, mainImage"
               width="750"
