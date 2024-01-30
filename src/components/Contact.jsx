@@ -8,7 +8,7 @@ const ContactPage = () => {
   const form = useRef();
   const info = {
     address: "310 5st Suite 202, Racine WI 53403 (located Downtown Racine)",
-    address1: "Serving Racine, Kenosha, South Milwaukee and surrounding areas",
+    address1: "Serving Racine, Kenosha, Milwaukee and surrounding areas",
     email: "mycrownlocs@gmail.com",
     phone: "262-770-5142",
   };
@@ -25,16 +25,15 @@ const ContactPage = () => {
     e.preventDefault();
     setFormStatus("Submitting...");
 
-    const { name, email, phone, service } = e.target.elements;
+    // const { name, email, phone, service } = e.target.elements;
 
-    const customerInfo = {
-      name: name.value,
-      email: email.value,
-      phone: phone.value,
-      service: service.value,
-    };
-    console.log(customerInfo);
-
+    // const customerInfo = {
+    //   name: name.value,
+    //   email: email.value,
+    //   phone: phone.value,
+    //   service: service.value,
+    // };
+    
     emailjs
       .sendForm(
         "service_401yyq7",

@@ -9,11 +9,11 @@
         "description": "************************************************************************************",
         "consult": "Consult  $50 - Goes toward full establishments price and nonrefundable",
         "deposit": "Deposit  $300 - Goes toward full establishments price and nonrefundable",
-        "reties": "Retigthenings Starts at $145",
+        "reties": "Retigthenings Starts at $145.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
-        "service": "Interlocks Establishments",
+        "service": "Microlocks Establishments",
         "book":"https://www.vagaro.com/cl/iQn0I0PnWln22WR3vQRCp3F3TYeQ6eGDIM7QDp4rsEs=",
         "price": "Starting Price: $650(up to 4 inches)| $75 per inch",
         "description": "************************************************************************************",
@@ -38,7 +38,7 @@
         "price": "Price -$145",
         "description": "************************************************************************************",
         "consult": "Pricing for Retigthenings varies depending upon type of locks and time since last retigthening.",
-        "deposit": "Sisterlocks™ and Interlocks Retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Interlocks retigthenings 8 wks or more are $45 per half hour after base price.",
+        "deposit": "Sisterlocks™ and Microlocks Retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Microlocks retigthenings 8 wks or more are $45 per half hour after base price.",
         "reties": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
@@ -48,7 +48,18 @@
         "price": "Price - $50",
         "description": "************************************************************************************",
         "consult": "Pricing for retigthenings varies depending upon type of locks and time since last retigthenings.",
-        "deposit": "Sisterlocks™ and Interlocks retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Interlocks retigthenings 8 wks or more are $35 per half hour after base price.",
+        "deposit": "Sisterlocks™ and Microlocks retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Microlocks retigthenings 8 wks or more are $35 per half hour after base price.",
+        "reties": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
+    }
+    ,
+    {
+        "service": "Traditional Locks to Congo Wicks Transformation",
+        "book":"https://www.vagaro.com/cl/RP6UFv25~NkZemCxZMiBHavV~NE9OLs3AmxIDaYao9U=",
+        "price": "Price - Starting at $600",
+        "description": "************************************************************************************",
+        "consult": "Up to 10 wicks. $100 for each additional wick. Pricing includes consultation fee. ",
+        "deposit": "In preparation for your appointment, please wash your hair before arriving.",
         "reties": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     }
