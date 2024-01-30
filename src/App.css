@@ -165,8 +165,8 @@
     width: 100%;
   }
   .Footer .mainImage{
-    width: 100%;
-    height: 100px;
+    width: 50%;
+    height: 50px;
   }
 }
 @media  (max-width:480px) {
