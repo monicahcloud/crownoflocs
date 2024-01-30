@@ -1,12 +1,10 @@
-
-
 [
    
     {
         "service": "Sisterlocks™ Establishments",
         "book":"https://www.vagaro.com/cl/m5BbdvIiKgse6Hg5PokbZ6l7xJEGCW5QvvdgTxoYEmc=",
         "price": "Starting Price: $850(up to 4 inches)| $75 per inch",
-        "description": "************************************************************************************",
+        "description": "",
         "consult": "Consult  $50 - Goes toward full establishments price and nonrefundable",
         "deposit": "Deposit  $300 - Goes toward full establishments price and nonrefundable",
         "reties": "Retigthenings Starts at $145.",
@@ -16,48 +14,60 @@
         "service": "Microlocks Establishments",
         "book":"https://www.vagaro.com/cl/iQn0I0PnWln22WR3vQRCp3F3TYeQ6eGDIM7QDp4rsEs=",
         "price": "Starting Price: $650(up to 4 inches)| $75 per inch",
-        "description": "************************************************************************************",
+        "description": "",
         "consult": "Consult  $50 - Goes toward full establishments price and nonrefundable",
         "deposit": "Deposit  $300 - Goes toward full establishments price and nonrefundable",
         "reties": "Retigthenings Starts at $145",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
     },
     {
-        "service": "Palm Rolled Starter Locs",
+        "service": "Traditional Starter Locs",
         "book":"https://www.vagaro.com/us04/crownoflocs",
         "price": "Starting Price: $175 and up",
-        "description": "************************************************************************************",
-        "consult": "",
+        "description": "",
+        "consult": "In preparation for your appointment, please wash your hair before arriving.",
         "deposit": "Deposit  $100 - Goes toward full establishments price and nonrefundable",
-        "reties": "Retwists Starts at $100",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
+        "reties": "Retwists Starts at $125",
+        "img": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/382777897_122136347462008600_1053146828769599911_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_ohc=I2VmV1mjfPsAX9YAnTy&_nc_ht=scontent-ord5-2.xx&cb_e2o_trans=t&oh=00_AfDP9KV41-9X4DsyCbR8Ik2B8F17CLMOM8nhuZXAGuACzw&oe=65BDD51B"
     },
+    
     {
         "service": "Retighenings",
         "book":"https://www.vagaro.com/cl/vIIzCTJG7aiE81M5SHEhztPMM7WUMJEVCeYH-nl-7Ek=",
-        "price": "Price -$145",
-        "description": "************************************************************************************",
+        "price": "Price - Starting at $160 for the first 3 hours. $45 per hour afterwards.",
+        "description": "",
         "consult": "Pricing for Retigthenings varies depending upon type of locks and time since last retigthening.",
         "deposit": "Sisterlocks™ and Microlocks Retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Microlocks retigthenings 8 wks or more are $45 per half hour after base price.",
         "reties": "",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
+        "img": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/422658634_122162111678008600_5088622866648889627_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=z5mlOirsLAAAX8F_a8m&_nc_oc=AQmFjabU1ft6rzx0MkofJ1L_u5GX16z6pXXKCa7Kal5E9ZsKQqF-jZ2DKV7u1DB-T64h9ouUD5cT6xkz100SkTzn&_nc_ht=scontent-ord5-1.xx&cb_e2o_trans=t&oh=00_AfBe2wXLppwYAoud-1dBUcybLQJgF2MtZjxmzwYWuCgQcQ&oe=65BC7833"
     },
     {
-        "service": "Consultation",
+        "service": "Sisterlocks Consultation Service",
         "book":"https://www.vagaro.com/cl/RP6UFv25~NkZemCxZMiBHavV~NE9OLs3AmxIDaYao9U=",
-        "price": "Price - $50",
-        "description": "************************************************************************************",
-        "consult": "Pricing for retigthenings varies depending upon type of locks and time since last retigthenings.",
-        "deposit": "Sisterlocks™ and Microlocks retigthenings are recommended every 4-5 wks.  Retigthenings can take 2 to 3 hrs or more depending on time since last retigthening. Sisterlocks™ or Microlocks retigthenings 8 wks or more are $35 per half hour after base price.",
+        "price": "Price - $100",
+        "description": "",
+        "consult": "In preparation for your Sisterlock Consultation, pre wash your hair, ensure your hair is as close to its natural texture as possible i.e. no oils, no conditioner, no blow dry as your consultant will need to put test Sisterlocks in your hair.",
+        "deposit": "During this process your Consultant will be assessing your hair and deciding on the correct locking pattern for your hair type, alongside the correct size for your desired outcome. ",
         "reties": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfBc0G-i5VP2kA5WCenodP6CD07ZiVRWe8AAqaKsFw1CTdz45B92HlsBs3e736FFRAKY&usqp=CAU"
+    }
+    ,
+    {
+        "service": "Transfer/Consultation Service Fee",
+        "book":"https://www.vagaro.com/cl/RP6UFv25~NkZemCxZMiBHavV~NE9OLs3AmxIDaYao9U=",
+        "price": "Price - $50",
+        "description": "",
+        "consult": "In preparation for your Consultation, pre wash your hair, ensure your hair is as close to its natural texture as possible i.e. no oils, no conditioner, no blow dry.",
+        "deposit": "",
+        "reties": "",
+        "img": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/399040179_122145080822008600_5386647737048908469_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=dUgJ-pR-ONEAX_1AjhN&_nc_ht=scontent-ord5-2.xx&cb_e2o_trans=t&oh=00_AfDCb3EaFegC1swSgSnYadfkisV-8CU7Gf_JrIy8CT9Tag&oe=65BDED93"
     }
     ,
     {
         "service": "Traditional Locks to Congo Wicks Transformation",
         "book":"https://www.vagaro.com/cl/RP6UFv25~NkZemCxZMiBHavV~NE9OLs3AmxIDaYao9U=",
         "price": "Price - Starting at $600",
-        "description": "************************************************************************************",
+        "description": "",
         "consult": "Up to 10 wicks. $100 for each additional wick. Pricing includes consultation fee. ",
         "deposit": "In preparation for your appointment, please wash your hair before arriving.",
         "reties": "",

@@ -1,4 +1,4 @@
-import data from "../data.json"
+import data from "../data"
 import { Card, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
@@ -38,17 +38,17 @@ const Services = () => {
                                              <img
                                                 style={{
                                                     display: "flex",
-                                                    width: "50vw",
-                                                    height: "50vh",
+                                                    width: "100vw",
+                                                    height: "80vh",
                                                 }}
                                                 src={item.img}
                                                 className="img-fluid rounded-start"
                                                 alt="book a service"
                                             /> 
                                         </div>
-                                        <Card className="" style={{ width: '50rem' }}>
+                                        <Card className="" style={{ width: '30rem' }}>
                                             <Card.Body >
-                                                <Card.Title>{item.service}</Card.Title><br/>
+                                                <Card.Title>{item.service}</Card.Title>
                                                 <Card.Text>{item.price}</Card.Text>
                                                 <Card.Text>{item.consult}</Card.Text>
                                                 <Card.Text>{item.deposit}</Card.Text>
